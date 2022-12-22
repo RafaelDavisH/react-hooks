@@ -484,9 +484,28 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "leggsimon",
+      "name": "Simon Legg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11544418?v=4",
+      "profile": "https://github.com/leggsimon",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "PhilippVujic",
+      "name": "Philipp Vujic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28774924?v=4",
+      "profile": "https://github.com/PhilippVujic",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
